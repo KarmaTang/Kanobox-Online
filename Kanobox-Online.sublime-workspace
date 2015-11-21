@@ -1,0 +1,209 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-color:   (property)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"c",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/karmatang/Desktop/Github/Kanobox-Online/README.rdoc",
+		"/Users/karmatang/project/railsgirls/app/views/layouts/application.html.erb",
+		"/Users/karmatang/project/railsgirls/config/application.rb",
+		"/Users/karmatang/project/railsgirls/app/assets/stylesheets/application.css",
+		"/Users/karmatang/project/railsgirls/Gemfile",
+		"/Users/karmatang/project/railsgirls/config/initializers/devise.rb",
+		"/Users/karmatang/project/railsgirls/config/environments/development.rb",
+		"/Users/karmatang/project/railsgirls/app/models/idea.rb",
+		"/Users/karmatang/project/railsgirls/app/models/comment.rb",
+		"/Users/karmatang/project/railsgirls/app/views/ideas/_form.html.erb",
+		"/Users/karmatang/project/railsgirls/app/views/ideas/show.html.erb",
+		"/Users/karmatang/project/railsgirls/app/controllers/ideas_controller.rb",
+		"/Users/karmatang/project/railsgirls/app/views/comments/_form.html.erb",
+		"/Users/karmatang/project/railsgirls/app/views/ideas/index.html.erb",
+		"/Users/karmatang/project/railsgirls/config/routes.rb",
+		"/Users/karmatang/project/railsgirls/app/views/pages/info.html.erb",
+		"/Users/karmatang/rake",
+		"/Users/karmatang/routes",
+		"/Users/karmatang/project/railsgirls/idea.rb",
+		"/Users/karmatang/Desktop/Github/KarmaTest/README.md",
+		"/Users/karmatang/Desktop/Yo!/E. web pratice/20141002/1002_day1.html",
+		"/Users/karmatang/Desktop/Yo!/E. web pratice/20141002/1002day1.html",
+		"/Users/karmatang/Desktop/Yo!/E. web pratice/20141002/day1.html",
+		"/Users/karmatang/Desktop/Yo!/E. web pratice/20141002/1002-test.html",
+		"/Users/karmatang/Desktop/test.html",
+		"/Users/karmatang/Dropbox/Public/EXAMPLES/20140113/0114-dfkevent.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true
+}
